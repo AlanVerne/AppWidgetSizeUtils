@@ -2,8 +2,9 @@
 
 Take AppWidgetSizeUtils.java
 
+Code works on JellyBean(v16) and higher. To support older versions read: http://stackoverflow.com/questions/17396045/how-to-catch-widget-size-changes-on-devices-where-onappwidgetoptionschanged-not or http://stackoverflow.com/questions/6984834/how-to-get-app-widget-size
 
-##Example##
+##Using##
 
 ```java
 public class AppWidgetSizeTest extends AppWidgetProvider {
